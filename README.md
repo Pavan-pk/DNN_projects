@@ -10,4 +10,5 @@ denoising_autoencoder.ipynb -> De-noising images using CNN, dataset MNIST.
 
 mnist_Gan.ipynb -> Generative adversarial networks using RMS prop optimization trained on mnist dataset.
 
-y_cnn.ipynb -> Y CNN, with A-network trained with original images, B-network trained with dialiation rate of 2. Mnist data set used.
+y_cnn.ipynb -> Y CNN, with A-network trained with original images, B-network trained with dialation rate of 2. Mnist data set used.
+
